@@ -1,0 +1,10 @@
+11:27:01 **** Incremental Build of configuration Debug for project sample input ****
+Info: Internal Builder is used for build
+g++ -o "sample input.exe" "src\\sample input.o" "src\\sample input.o" 
+src\sample input.o: In function `main':
+C:\Users\Hp\eclipse-workspace\sample input\Debug/../src/sample input.c:14: multiple definition of `main'
+src\sample input.o:C:\Users\Hp\eclipse-workspace\sample input\Debug/../src/sample input.c:14: first defined here
+collect2.exe: error: ld returned 1 exit status
+
+11:27:01 Build Failed. 2 errors, 0 warnings. (took 325ms)
+

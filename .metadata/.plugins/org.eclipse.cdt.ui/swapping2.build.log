@@ -1,0 +1,7 @@
+22:38:02 **** Incremental Build of configuration Debug for project swapping2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swapping2.o" "..\\src\\swapping2.c" 
+gcc -o swapping2.exe "src\\swapping2.o" 
+
+22:38:02 Build Finished. 0 errors, 0 warnings. (took 901ms)
+

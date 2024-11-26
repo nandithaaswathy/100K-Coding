@@ -1,0 +1,11 @@
+13:00:50 **** Incremental Build of configuration Debug for project evennumbers-simple ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\evennumbers-simple.o" "..\\src\\evennumbers-simple.c" 
+..\src\evennumbers-simple.c: In function 'main':
+..\src\evennumbers-simple.c:17:20: warning: statement with no effect [-Wunused-value]
+  for(i=2;i<=limit;i+2){
+                   ~^~
+gcc -o evennumbers-simple.exe "src\\evennumbers-simple.o" 
+
+13:00:51 Build Finished. 0 errors, 1 warnings. (took 1s.108ms)
+

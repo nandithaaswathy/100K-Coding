@@ -1,0 +1,7 @@
+12:28:01 **** Incremental Build of configuration Debug for project forloop-stars ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\forloop-stars.o" "..\\src\\forloop-stars.c" 
+gcc -o forloop-stars.exe "src\\forloop-stars.o" 
+
+12:28:02 Build Finished. 0 errors, 0 warnings. (took 1s.157ms)
+

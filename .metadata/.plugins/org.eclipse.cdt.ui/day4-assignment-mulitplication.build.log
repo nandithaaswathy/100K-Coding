@@ -1,0 +1,7 @@
+21:41:53 **** Incremental Build of configuration Debug for project day4-assignment-mulitplication ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day4-assignment-mulitplication.o" "..\\src\\day4-assignment-mulitplication.c" 
+gcc -o day4-assignment-mulitplication.exe "src\\day4-assignment-mulitplication.o" 
+
+21:41:54 Build Finished. 0 errors, 0 warnings. (took 1s.218ms)
+

@@ -1,0 +1,7 @@
+12:13:04 **** Incremental Build of configuration Debug for project forloop-prime numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\forloop-prime numbers.o" "..\\src\\forloop-prime numbers.c" 
+gcc -o "forloop-prime numbers.exe" "src\\forloop-prime numbers.o" 
+
+12:13:05 Build Finished. 0 errors, 0 warnings. (took 814ms)
+

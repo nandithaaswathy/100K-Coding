@@ -1,0 +1,11 @@
+22:38:29 **** Incremental Build of configuration Debug for project sum of odd numbers-assignment ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sum of odd numbers-assignment.o" "..\\src\\sum of odd numbers-assignment.c" 
+..\src\sum of odd numbers-assignment.c: In function 'main':
+..\src\sum of odd numbers-assignment.c:19:20: warning: statement with no effect [-Wunused-value]
+  for(i=1;i<=limit;i+2){
+                   ~^~
+gcc -o "sum of odd numbers-assignment.exe" "src\\sum of odd numbers-assignment.o" 
+
+22:38:32 Build Finished. 0 errors, 1 warnings. (took 2s.357ms)
+

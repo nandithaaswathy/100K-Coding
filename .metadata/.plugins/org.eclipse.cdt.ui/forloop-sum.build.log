@@ -1,0 +1,7 @@
+12:31:39 **** Incremental Build of configuration Debug for project forloop-sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\forloop-sum.o" "..\\src\\forloop-sum.c" 
+gcc -o forloop-sum.exe "src\\forloop-sum.o" 
+
+12:31:40 Build Finished. 0 errors, 0 warnings. (took 854ms)
+

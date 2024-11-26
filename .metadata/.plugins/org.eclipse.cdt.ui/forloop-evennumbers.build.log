@@ -1,0 +1,7 @@
+12:57:43 **** Incremental Build of configuration Debug for project forloop-evennumbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\forloop-evennumbers.o" "..\\src\\forloop-evennumbers.c" 
+gcc -o forloop-evennumbers.exe "src\\forloop-evennumbers.o" 
+
+12:57:44 Build Finished. 0 errors, 0 warnings. (took 1s.37ms)
+

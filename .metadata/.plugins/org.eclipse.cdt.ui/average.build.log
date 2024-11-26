@@ -1,0 +1,6 @@
+22:15:52 **** Incremental Build of configuration Debug for project average ****
+Info: Internal Builder is used for build
+gcc -o average.exe "src\\average.o" 
+
+22:15:53 Build Finished. 0 errors, 0 warnings. (took 1s.35ms)
+

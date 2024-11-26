@@ -1,0 +1,6 @@
+13:59:50 **** Incremental Build of configuration Debug for project ifelse-greatest ****
+Info: Internal Builder is used for build
+gcc -o ifelse-greatest.exe "src\\ifelse-greatest.o" 
+
+13:59:51 Build Finished. 0 errors, 0 warnings. (took 998ms)
+

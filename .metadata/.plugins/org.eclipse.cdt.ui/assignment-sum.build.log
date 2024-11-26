@@ -1,0 +1,6 @@
+13:11:36 **** Incremental Build of configuration Debug for project assignment-sum ****
+Info: Internal Builder is used for build
+gcc -o assignment-sum.exe "src\\assignment-sum.o" 
+
+13:11:37 Build Finished. 0 errors, 0 warnings. (took 1s.384ms)
+
